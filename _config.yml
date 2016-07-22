@@ -1,0 +1,14 @@
+layout_spectrum: 0.7248424140270799
+typography_spectrum: 0.9811256488319486
+color:
+  brandStrength: 0.8809645993169397
+  lightness: 0.8151480709202588
+  saturation: 0.2124290142673999
+  rhythmicContrast: 0.11364206927828491
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: 'Bunkers, Rakes & Trouser Snakes'
